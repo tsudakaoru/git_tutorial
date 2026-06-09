@@ -3,5 +3,6 @@ class Main {
         System.out.println("Hello, World!");
         System.out.println("add comment");
         System.out.println("git commit --amend");
+        System.out.println("コンフリクト");
     }
 }
