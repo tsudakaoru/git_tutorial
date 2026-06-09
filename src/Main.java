@@ -5,5 +5,6 @@ class Main {
         System.out.println("git commit --amend");
         System.out.println("git merge");
         System.out.println("conflict");
+        System.out.println("pull request");
     }
 }
